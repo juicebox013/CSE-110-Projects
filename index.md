@@ -6,7 +6,7 @@ Hello! My name is Justin Nguyen and I am currently a 3rd year studying ~~perform
 
 
 ## sections of Justin
-[Link Text](about-me), [Link Text](coding-experience/skills), [Link Text](CSE-110-Goals)
+[about me](about-me), [coding experience/skills](coding-experience/skills), [cse110 goals](CSE-110-Goals)
 ]
 
 ## about me 
