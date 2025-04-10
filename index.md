@@ -7,7 +7,6 @@ Hello! My name is Justin Nguyen and I am currently a 3rd year studying ~~perform
 
 ## sections of Justin
 [about me](about-me), [coding experience/skills](coding-experience/skills), [cse110 goals](CSE-110-Goals)
-]
 
 ## about me 
 A fun fact about me is that I started my computer science journey completely blind of what was to come. As a high school student, I wanted to become a cool engineer that would build robots and make jetpacks, but my friends convinvced me to take on computer science as well. Consequently, I applied to be a computer engineering major and started to love coding bit by bit. Some other things about me include my hobbies such as :
