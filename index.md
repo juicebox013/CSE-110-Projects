@@ -1,7 +1,7 @@
 # A Guide to Justin 
 Hello! My name is Justin Nguyen and I am currently a 3rd year studying ~~performative clownery~~ computer engineering student at the University of California, San Diego.
 
-![Alt Text](cat logo.webp)
+![Alt Text](ucsd-petr.jpg)
 > this is a photo of a cute cat that I like :>
 
 
